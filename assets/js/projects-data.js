@@ -49,7 +49,7 @@ const PORTFOLIO = {
   objectDetection: {
 
     pageTitle: "Object Detection",
-    intro: "Real-time detection models custom-trained on domain-specific datasets using YOLO architectures. Each project includes a live demo, an interactive Colab notebook, and documented methodology.",
+    intro: "Real-time detection models custom-trained on domain-specific datasets using YOLO architectures. Each project includes a live demo, access to the Roboflow dataset, and documented methodology.",
 
     /*  FEATURED PROJECT — displayed as the hero card at the top.
         Set to null if you have no featured project yet.          */
@@ -65,7 +65,7 @@ const PORTFOLIO = {
       status:      "completed",
       links: {
         github: "",    // ← paste GitHub repo URL here
-        colab:  "",    // ← paste Colab notebook URL here
+        dataset:  "",    // ← paste Roboflow dataset URL here
         demo:   "https://sites.google.com/view/rockpaperscissorsin3d?usp=sharing",
         docs:   "",    // ← paste blog / documentation URL here
       }
@@ -85,7 +85,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -101,7 +101,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -117,7 +117,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -134,7 +134,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -150,7 +150,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -166,7 +166,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -182,7 +182,7 @@ const PORTFOLIO = {
         status:      "progress",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -222,7 +222,7 @@ const PORTFOLIO = {
         status:      "soon",     // "live" | "progress" | "soon"
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }
@@ -254,7 +254,7 @@ const PORTFOLIO = {
         status:      "soon",
         links: {
           github: "",
-          colab:  "",
+          dataset:  "",
           demo:   "",
           docs:   "",
         }

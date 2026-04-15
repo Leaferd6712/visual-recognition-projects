@@ -49,7 +49,7 @@
 
   const LINK_DEFS = [
     { key: 'github', icon: 'fab fa-github',      label: 'GitHub',    cls: 'github' },
-    { key: 'colab',  icon: 'fas fa-book-open',   label: 'Colab',     cls: 'colab'  },
+    { key: 'dataset',  icon: 'fas fa-database',   label: 'Dataset',     cls: 'dataset'  },
     { key: 'demo',   icon: 'fas fa-play-circle', label: 'Live Demo', cls: 'demo'   },
     { key: 'docs',   icon: 'fas fa-file-alt',    label: 'Docs',      cls: 'docs'   },
   ];
